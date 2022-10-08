@@ -41,6 +41,10 @@ main {
 }
 
 #showcase {
+	display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
 	position: relative;
 	height: 50%;
 }
